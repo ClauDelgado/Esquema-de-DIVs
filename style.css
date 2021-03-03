@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contex {
+}
+#header {
+	height: 80px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #5BC331;
+}
+#navega {
+	height: 30px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #B41B1D;
+}
+#banner {
+	height: 200px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #E9E10C;
+}
+#meanhead {
+}
+#meanhead {
+	height: 30px;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #C530AD;
+}
+#contenido {
+	height: 600px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #3D67BB;
+}
+#footer {
+	height: 150px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	background-color: #B32B2D;
+}
+#leftside {
+	background-color: #D42326;
+	padding: 10px;
+	float: left;
+	height: 580px;
+	width: 40%;
+	margin-right: 10px;
+}
+#rightside {
+	background-color: #E4D722;
+	padding: 10px;
+	float: right;
+	height: 580px;
+	width: 55%;
+}
+#menufijo {
+	background-color: #E77D3E;
+	margin-left: 33%;
+	position: fixed;
+}
+#c1 {
+	background-color: #79C513;
+	height: 120px;
+	width: 120px;
+	position: absolute;
+	z-index: 1;
+	left: 37px;
+	top: 540px;
+}
+#c2 {
+	background-color: #DCC630;
+	height: 120px;
+	width: 120px;
+	position: absolute;
+	z-index: 2;
+}
+#c3 {
+	background-color: #51588F;
+	height: 120px;
+	width: 120px;
+	position: absolute;
+	z-index: 3;
+}
+#c4 {
+	background-color: #72340B;
+	height: 120px;
+	width: 120px;
+	position: absolute;
+	z-index: 4;
+}
+#c5 {
+	background-color: #7AC189;
+	height: 120px;
+	width: 120px;
+	position: absolute;
+	z-index: 5;
+}
